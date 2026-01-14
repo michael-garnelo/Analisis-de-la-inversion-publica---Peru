@@ -7,7 +7,7 @@ nivel de gobierno, función y distribución territorial. El análisis se
 enfoca en transformar datos abiertos en información comprensible que
 pueda apoyar iniciativas de visualización y análisis de datos sociales.
 
-📄 [Informe técnico del proyecto](docs/Analisis_y_Visualizacion_de_la_Inversion_Publica_en_el_Perú.pdf)
+📄 [Informe técnico del proyecto](docs/informe.pdf)
 
 
 ##  Fuente de datos
