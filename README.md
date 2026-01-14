@@ -52,9 +52,25 @@ inversión pública desde un enfoque territorial, funcional y de
 eficiencia presupuestal.
 
 ### Distribución general de la ejecución presupuestal
+Durante el período 2022–2024, el Presupuesto Institucional Modificado (PIM)
+acumulado alcanzó aproximadamente S/ 187,7 mil millones, de los cuales se
+ejecutaron S/ 153,4 mil millones, lo que representa una ejecución promedio
+del 85 % a nivel nacional. En este período se registraron cerca de
+196 mil proyectos de inversión
 ![Distribución ejecución](images/powerbi/resumen_ejecucion.png)
 
-### Distribución territorial de la inversión
+### Distribución territorial de la inversión (brecha planificación–ejecución)
+
+El gráfico muestra las diferencias entre el presupuesto planeado y el
+monto efectivamente ejecutado en cada departamento. Los tonos más
+oscuros representan mayores brechas, lo que podría estar asociado a
+problemas en la planificación presupuestal o en la ejecución de los
+proyectos.
+
+Destacan departamentos como Lima, Cusco y Arequipa, donde la diferencia
+entre lo presupuestado y lo ejecutado es significativamente mayor,
+sugiriendo la necesidad de un análisis más profundo sobre los factores
+institucionales y operativos que influyen en estos resultados.
 ![Mapa inversión](images/powerbi/mapa_desviacion.png)
 
 ### Ejecución por función del proyecto
