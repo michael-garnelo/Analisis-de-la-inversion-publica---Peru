@@ -38,12 +38,20 @@ tanto técnicos como no técnicos.
 
 *(Ver carpeta `images/powerbi/`)*
 
-##  Modelado de datos
-El proyecto incluye un modelo de datos tipo estrella (Kimball), el cual
-sirvió como base para la construcción de los dashboards y el análisis en
-Power BI.
+##  Modelado de datos (SQL Server)
 
-*(Ver carpeta `images/modelado/`)*
+Como parte del proyecto, se diseñó un modelo dimensional tipo
+estrella (enfoque Kimball) utilizando SQL Server, con el objetivo de
+facilitar el análisis de la inversión pública y su posterior
+visualización en Power BI.
+
+El modelo se estructura alrededor de una tabla de hechos de proyectos
+de inversión, relacionada con dimensiones clave como función,
+entidad ejecutora, ubicación, fuente de financiamiento y producto del
+proyecto. Este enfoque permitió simplificar las consultas analíticas y
+optimizar el diseño del dashboard.
+
+![Modelo estrella en SQL Server](images/modelado/modelo_estrella_sqlserver.png)
 
 ##  Conclusiones
 El análisis permitió identificar patrones relevantes en la asignación de
