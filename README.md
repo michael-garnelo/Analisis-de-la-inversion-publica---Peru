@@ -29,15 +29,6 @@ por ser el último disponible de forma completa.
 4. Desarrollo de visualizaciones y dashboards en Power BI para comunicar
    los resultados de forma clara.
 
-
-##  Visualización de resultados
-Se desarrollaron dashboards en Power BI que permiten analizar la
-distribución de la inversión pública por función, nivel de gobierno y
-territorio, facilitando la interpretación de los datos para públicos
-tanto técnicos como no técnicos.
-
-*(Ver carpeta `images/powerbi/`)*
-
 ##  Modelado de datos (SQL Server)
 
 Como parte del proyecto, se diseñó un modelo dimensional tipo
@@ -53,6 +44,14 @@ optimizar el diseño del dashboard.
 
 ![Modelo estrella en SQL Server](images/modelado/modelo_estrella_sql_server.png)
 
+
+##  Visualización de resultados
+Se desarrollaron dashboards en Power BI que permiten analizar la
+distribución de la inversión pública por función, nivel de gobierno y
+territorio, facilitando la interpretación de los datos para públicos
+tanto técnicos como no técnicos.
+
+*(Ver carpeta `images/powerbi/`)*
 
 ##  Conclusiones
 El análisis permitió identificar patrones relevantes en la asignación de
