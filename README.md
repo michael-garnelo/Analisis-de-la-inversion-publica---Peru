@@ -52,14 +52,18 @@ inversión pública desde un enfoque territorial, funcional y de
 eficiencia presupuestal.
 
 ### Distribución general de la ejecución presupuestal
+
+![Distribución ejecución](images/powerbi/resumen_ejecucion.png)
+
 Durante el período 2022–2024, el Presupuesto Institucional Modificado (PIM)
 acumulado alcanzó aproximadamente S/ 187,7 mil millones, de los cuales se
 ejecutaron S/ 153,4 mil millones, lo que representa una ejecución promedio
 del 85 % a nivel nacional. En este período se registraron cerca de
 196 mil proyectos de inversión
-![Distribución ejecución](images/powerbi/resumen_ejecucion.png)
 
 ### Distribución territorial de la inversión (brecha planificación–ejecución)
+
+![Mapa inversión](images/powerbi/mapa_desviacion.png)
 
 El gráfico muestra las diferencias entre el presupuesto planeado y el
 monto efectivamente ejecutado en cada departamento. Los tonos más
@@ -71,13 +75,24 @@ Destacan departamentos como Lima, Cusco y Arequipa, donde la diferencia
 entre lo presupuestado y lo ejecutado es significativamente mayor,
 sugiriendo la necesidad de un análisis más profundo sobre los factores
 institucionales y operativos que influyen en estos resultados.
-![Mapa inversión](images/powerbi/mapa_desviacion.png)
 
 ### Ejecución por función del proyecto
 ![Ejecución por función](images/powerbi/ejecucion_por_funcion.png)
 
+Las funciones de Transporte, Educación y Salud concentran la mayor parte
+del presupuesto asignado a nivel nacional. No obstante, el porcentaje de
+ejecución varía de manera significativa entre funciones, lo que sugiere
+diferencias en la capacidad operativa y de gestión según el tipo de
+intervención pública.
+
+
 ### Eficiencia por nivel de gobierno
 ![Eficiencia](images/powerbi/eficiencia_por_nivel_gob.png)
+
+El dashboard completo incluye visualizaciones adicionales orientadas
+al análisis de eficiencia presupuestal, evolución temporal y brechas
+regionales, disponibles en la carpeta `/images/powerbi/`.
+
 
 ##  Conclusiones
 El análisis permitió identificar patrones relevantes en la asignación de
