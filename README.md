@@ -87,7 +87,7 @@ intervención pública.
 
 
 ### Eficiencia por nivel de gobierno
-![Eficiencia](images/powerbi/eficiencia_por_nivel_gob.png)
+![Eficiencia](images/powerbi/comparacion.svg)
 
 El dashboard completo incluye visualizaciones adicionales orientadas
 al análisis de eficiencia presupuestal, evolución temporal y brechas
