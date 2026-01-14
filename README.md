@@ -63,7 +63,7 @@ del 85 % a nivel nacional. En este período se registraron cerca de
 
 ### Distribución territorial de la inversión (brecha planificación–ejecución)
 
-![Mapa inversión](images/powerbi/mapa_desviacion.png)
+![Mapa inversión](images/powerbi/mapa_desviacion.svg)
 
 El gráfico muestra las diferencias entre el presupuesto planeado y el
 monto efectivamente ejecutado en cada departamento. Los tonos más
