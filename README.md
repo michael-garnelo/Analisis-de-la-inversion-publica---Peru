@@ -77,7 +77,7 @@ sugiriendo la necesidad de un análisis más profundo sobre los factores
 institucionales y operativos que influyen en estos resultados.
 
 ### Ejecución por función del proyecto
-![Ejecución por función](images/powerbi/ejecucion_por_funcion.png)
+![Ejecución por función](images/powerbi/ejecucion_por_funcion.svg)
 
 Las funciones de Transporte, Educación y Salud concentran la mayor parte
 del presupuesto asignado a nivel nacional. No obstante, el porcentaje de
