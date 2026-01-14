@@ -89,7 +89,10 @@ intervención pública.
 ### Eficiencia por nivel de gobierno
 ![Eficiencia](images/powerbi/comparacion.svg)
 
-El dashboard completo incluye visualizaciones adicionales orientadas
+Se observa un crecimiento sostenido tanto del presupuesto asignado como del monto ejecutado en los tres años analizados, reflejando un aumento en la inversión pública. No obstante, la eficiencia en la ejecución se ha mantenido relativamente constante.
+
+
+> El dashboard completo incluye visualizaciones adicionales orientadas
 al análisis de eficiencia presupuestal, evolución temporal y brechas
 regionales, disponibles en la carpeta `/images/powerbi/`.
 
