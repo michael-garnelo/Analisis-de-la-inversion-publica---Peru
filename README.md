@@ -53,7 +53,7 @@ eficiencia presupuestal.
 
 ### Distribución general de la ejecución presupuestal
 
-![Distribución ejecución](images/powerbi/resumen_ejecucion.png)
+![Distribución ejecución](images/powerbi/resumen_ejecucion.svg)
 
 Durante el período 2022–2024, el Presupuesto Institucional Modificado (PIM)
 acumulado alcanzó aproximadamente S/ 187,7 mil millones, de los cuales se
