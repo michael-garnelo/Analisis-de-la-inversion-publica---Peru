@@ -51,7 +51,8 @@ entidad ejecutora, ubicación, fuente de financiamiento y producto del
 proyecto. Este enfoque permitió simplificar las consultas analíticas y
 optimizar el diseño del dashboard.
 
-![Modelo estrella en SQL Server](images/modelado/Modelo estrella en SQL Server.png)
+![Modelo estrella en SQL Server](images/modelado/modelo_estrella_sql_server.png)
+
 
 ##  Conclusiones
 El análisis permitió identificar patrones relevantes en la asignación de
