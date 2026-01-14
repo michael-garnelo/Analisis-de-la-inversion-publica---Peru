@@ -46,12 +46,22 @@ optimizar el diseño del dashboard.
 
 
 ##  Visualización de resultados
-Se desarrollaron dashboards en Power BI que permiten analizar la
-distribución de la inversión pública por función, nivel de gobierno y
-territorio, facilitando la interpretación de los datos para públicos
-tanto técnicos como no técnicos.
+Los datos modelados fueron utilizados para construir dashboards
+interactivos en Power BI, orientados a analizar la ejecución de la
+inversión pública desde un enfoque territorial, funcional y de
+eficiencia presupuestal.
 
-*(Ver carpeta `images/powerbi/`)*
+### Distribución general de la ejecución presupuestal
+![Distribución ejecución](images/powerbi/resumen_ejecucion.png)
+
+### Distribución territorial de la inversión
+![Mapa inversión](images/powerbi/mapa_desviacion.png)
+
+### Ejecución por función del proyecto
+![Ejecución por función](images/powerbi/ejecucion_por_funcion.png)
+
+### Eficiencia por nivel de gobierno
+![Eficiencia](images/powerbi/eficiencia_por_nivel_gob.png)
 
 ##  Conclusiones
 El análisis permitió identificar patrones relevantes en la asignación de
